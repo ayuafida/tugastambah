@@ -1,0 +1,93 @@
+.warna{
+    background-color: red;
+}
+.logo{
+    width: 200px;
+}
+.header{
+    background-color: red;
+    height: 70px;
+}
+
+.wrraper{
+    margin-bottom: 20px;
+    display: inline-block;
+    margin-right: 20px;
+    
+    
+}
+
+.content{
+   
+    width: 580px;
+    float: left;
+    background-color: white;
+    border: 1px solid grey;
+}
+
+.imagesliderr{
+    height: 216px;
+    width: 180px;
+  
+    float: left;
+    margin-right: 10px;
+    border-right: 2px dashed gainsboro;
+}
+
+.des1{
+    width: 376px;
+    text-align: left;
+    color: grey;
+    float :left;
+    
+    
+}
+
+
+
+
+.des{
+    width: 375px;
+    
+    text-align: left;
+    font-weight: bold;
+    float :left;
+    
+    
+    ;
+    
+}
+
+
+
+.wraperapp{
+    width: 1200px;
+    margin: auto;
+}
+
+
+
+
+.content1{
+    width: 277px;
+    float: left;
+    background-color:white;
+    border: 1px solid grey;
+}
+
+.des2{
+    text-align: left;
+    color: grey;
+    padding-left: 10px;
+}
+.des3{
+    text-align: left;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.imagesliderr1{
+    width: 277px;
+    
+    border-bottom: 2px dashed gainsboro;
+}
